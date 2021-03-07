@@ -1,0 +1,5 @@
+http://localhost:8082/spring-boot-app/api/v1/test
+
+
+C5_PathParam_And_QueryParam_Controller
+http://localhost:8082/spring-boot-app/api/param
